@@ -13,7 +13,7 @@ yarn add remark-plugin-twemoji
 
 ## Usage
 
-The plugin accepts an `option` prop, valid options are listed [here](https://github.com/twitter/twemoji#object-as-parameter).
+This plugin accepts an `option` prop, valid options are listed [here](https://github.com/twitter/twemoji#object-as-parameter).
 
 1. [Next.js](https://nextjs.org/) Site
 
@@ -36,7 +36,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
-        remarkPlugins: [require(`gatsby-plugin-twemoji`)],
+        remarkPlugins: [require(`remark-plugin-twemoji`)],
       },
     },
   ],
