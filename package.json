@@ -1,0 +1,12 @@
+{
+  "name": "remark-plugin-twemoji",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jletey/remark-plugin-twemoji",
+  "author": "John Letey",
+  "license": "MIT",
+  "dependencies": {
+    "twemoji": "^12.1.6",
+    "unist-util-visit": "^2.0.2"
+  }
+}
