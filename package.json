@@ -6,7 +6,7 @@
   "author": "John Letey",
   "license": "MIT",
   "dependencies": {
-    "twemoji": "^13.0.1",
+    "twemoji": "^13.1.0",
     "unist-util-visit": "^2.0.3"
   }
 }
